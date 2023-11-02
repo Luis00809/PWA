@@ -17,6 +17,8 @@
    
    
    ## Installation
+   The deployed site can be found here: https://jate-pwa-app-camp-5a33760596fe.herokuapp.com/
+
    Once the user goes to the deployed sight the user can hit the "install" button to download this app.
    ![install button](./images/Screenshot%202023-11-02%20at%201.57.11 PM.png)
 
